@@ -1,0 +1,14 @@
+.main-content {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.card-body-stars {
+  display: flex;
+  margin: 0px;
+  padding: 0px;;
+  list-style-type: none;
+}
